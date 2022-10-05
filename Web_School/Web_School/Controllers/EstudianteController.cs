@@ -32,5 +32,11 @@ namespace Web_School.Controllers
             return View(lista_Estudiante);
         }
 
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+
     }
 }
