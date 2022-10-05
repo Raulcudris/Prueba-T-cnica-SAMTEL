@@ -43,7 +43,7 @@ namespace API_Escuela
         {
             app.UseCors(options =>
             {
-                //options.WithOrigins("http://localhost:3000");
+                options.WithOrigins("http://localhost:3000");
                 options.AllowAnyHeader();
                 options.AllowAnyMethod();
             });
