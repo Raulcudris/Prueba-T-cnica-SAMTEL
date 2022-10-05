@@ -64,4 +64,3 @@ F:\Proyecto-App-Entrevista\API_Escuela\API_Escuela\obj\Debug\net5.0\ref\API_Escu
 F:\Proyecto-App-Entrevista\API_Escuela\API_Escuela\obj\Debug\net5.0\API_Escuela.pdb
 F:\Proyecto-App-Entrevista\API_Escuela\API_Escuela\obj\Debug\net5.0\API_Escuela.genruntimeconfig.cache
 F:\Proyecto-App-Entrevista\API_Escuela\API_Escuela\bin\Debug\net5.0\API_Escuela.Views.dll
-F:\Proyecto-App-Entrevista\API_Escuela\API_Escuela\bin\Debug\net5.0\API_Escuela.Views.pdb
