@@ -4,4 +4,4 @@ Este principio establece que un componente o clase debe tener una responsabilida
 Partiendo de este mandatario, por favor presentar una tecnología desarrollada bajo lenguaje C Sharp utilizando el entorno Visual Studio, el patrón queda a su discreción. 
 Se puede crear un alumno con datos personales (al menos 6 datos personales), se puedan crear Materias (al menos 3 datos para la materia), y se pueda asociar una nota final a una materia para un alumno. 
 
-Entregar script de la DB y enviar el proyecto sln completo. 
+Entregar script de la DB y enviar el proyecto sln completo.   
