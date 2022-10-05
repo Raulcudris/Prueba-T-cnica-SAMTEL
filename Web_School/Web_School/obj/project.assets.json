@@ -6239,11 +6239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyecto-App-Entrevista\\Web_School\\Web_School\\Web_School.csproj",
+      "projectUniqueName": "F:\\Proyecto-App-Entrevista\\API_Escuela\\Web_School\\Web_School\\Web_School.csproj",
       "projectName": "Web_School",
-      "projectPath": "F:\\Proyecto-App-Entrevista\\Web_School\\Web_School\\Web_School.csproj",
+      "projectPath": "F:\\Proyecto-App-Entrevista\\API_Escuela\\Web_School\\Web_School\\Web_School.csproj",
       "packagesPath": "C:\\Users\\MAKIIA-PC04\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyecto-App-Entrevista\\Web_School\\Web_School\\obj\\",
+      "outputPath": "F:\\Proyecto-App-Entrevista\\API_Escuela\\Web_School\\Web_School\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

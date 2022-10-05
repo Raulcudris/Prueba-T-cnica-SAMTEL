@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7SakE9xLUoYIUU90cG1M+crHAn7hBFh61Kns8L34KZ7swTfGkfb8BvNvU4NacJLAqOo6oUNR/G/I+Lrz8UT8rQ==",
+  "dgSpecHash": "EHelbsgGSBp1a72O/lWDlnppSBHKI60vokU2D60iv7Q6bvPSeDrlBz4WBmJIOxefVFRKEHC35lhLDHai0ahW5g==",
   "success": true,
-  "projectFilePath": "F:\\Proyecto-App-Entrevista\\Web_School\\Web_School\\Web_School.csproj",
+  "projectFilePath": "F:\\Proyecto-App-Entrevista\\API_Escuela\\Web_School\\Web_School\\Web_School.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAKIIA-PC04\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\MAKIIA-PC04\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
